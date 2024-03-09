@@ -12,7 +12,7 @@ function Number() {
             {({ isVisible }) => (
               <div>
                 {isVisible ? (
-                  <CountUp start={0} end={100} duration={3} />
+                  <CountUp start={0} end={99} duration={3} />
                 ) : null}
                 +
               </div>
@@ -26,7 +26,7 @@ function Number() {
             {({ isVisible }) => (
               <div>
                 {isVisible ? (
-                  <CountUp start={0} end={50} duration={3} />
+                  <CountUp start={0} end={69} duration={3} />
                 ) : null}
                 +
               </div>
@@ -39,7 +39,7 @@ function Number() {
             {({ isVisible }) => (
               <div>
                 {isVisible ? (
-                  <CountUp start={0} end={8} duration={3} />
+                  <CountUp start={0} end={3} duration={3} />
                 ) : null}
                 +
               </div>
@@ -52,7 +52,7 @@ function Number() {
             {({ isVisible }) => (
               <div>
                 {isVisible ? (
-                  <CountUp start={0} end={555} duration={3} />
+                  <CountUp start={0} end={199} duration={3} />
                 ) : null}
                 +
               </div>

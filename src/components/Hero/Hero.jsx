@@ -17,15 +17,15 @@ function Hero() {
               <TypeAnimation
                 sequence={[
                   // Same substring at the start will only be typed out once, initially
-                  "full-stack",
+                  "full-stack.",
                   1000, // wait 1s before replacing "Mice" with "Hamsters"
                   "Web developer.",
                   1000,
-                  "Database Management",
+                  "Database Management.",
                   1000,
-                  "Cyber Security",
+                  "Cyber Security.",
                   1000,
-                  "Game developer",
+                  "Game developer.",
                   1000,
 
                 ]}
@@ -34,8 +34,7 @@ function Hero() {
               />
               </p>
             <p className={styles.text_4}>
-              who crafted this online experience. Take a peek under the hood and
-              see what makes it tick.
+            Contact via the online channels below.
             </p>
             <ul className={styles.hero_social}>
               <li>
