@@ -16,12 +16,12 @@ function Contact() {
                 </p>
                 <p>
                     <address>
-                    4 Privet Drive, <br />
-                    Little Whinging, Surrey
+                    342/9 Arrakis, <br />
+                    Paul Atreides,Corax
                     </address>
                 </p>
-                <p><MdAlternateEmail/>Byte-Slinger-Dhamma@btc.info</p>
-                <p><SiWhatsapp/>Byte-Slinger-Dhamma</p>
+                <p><MdAlternateEmail/>65025367@up.ac.th</p>
+                <p><SiWhatsapp/>0986253576</p>
             </div>
             <div className={styles.contact_form}>
                 <form action="">
